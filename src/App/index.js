@@ -1,12 +1,16 @@
 import React, { Component } from "react";
 import "./style.css";
 import Navbar from "../Navbar";
+import Hero from "../Hero";
 
 
-class App extends Component {
-  render() {
-    return <Navbar/>;
-  }
+const App = () => {
+  return (
+      <div className="App">
+        <Navbar />
+        <Hero />
+      </div>
+  );
 }
 
 export default App;
