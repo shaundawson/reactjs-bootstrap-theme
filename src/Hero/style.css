@@ -1,8 +1,21 @@
 .jumbotron {
     color: white;
-    background-image: url("https://images.unsplash.com/photo-1438109491414-7198515b166b?q=80&fm=jpg&s=cbdabf7a79c087a0b060670a6d79726c");
+    background-image: url("https://i.imgur.com/VERu23p.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
+  }
+  
+  .container {
+    position: relative;
+    margin-left:20px;
+    top: 55%;
+    transform: translateY(-50%);
+  }
+
+  .fab {
+   color: white!important;
+   padding: 5px;
+   font-size: 30px;
   }

@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import "./style.css";
 import Navbar from "../Navbar";
 import Hero from "../Hero";
+import Footer from "../Footer";
 
 
 const App = () => {
@@ -9,6 +10,7 @@ const App = () => {
       <div className="App">
         <Navbar />
         <Hero />
+        <Footer />
       </div>
   );
 }
