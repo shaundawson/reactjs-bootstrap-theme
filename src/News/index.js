@@ -5,7 +5,7 @@ const News = () => {
   return (
     <div className="news container-fluid">
       <div class="row my-4">
-        <div class="col-lg-8">
+        <div class="col-lg-6">
           <img class="img-fluid rounded" src="https://i.imgur.com/4gjLDEA.jpg" alt=""/>
         </div>
         <div class="col-lg-4">
