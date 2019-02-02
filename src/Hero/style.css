@@ -1,7 +1,7 @@
 .jumbotron {
     color: white;
-    background-image: url("https://i.imgur.com/VERu23p.jpg");
-    background-position: center;
+    background-image: url("https://i.imgur.com/f6Ieuhh.jpg");
+    background-position: top-center;
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
@@ -9,13 +9,14 @@
   
   .container {
     position: relative;
-    margin-left:20px;
-    top: 55%;
+    top: 50%;
     transform: translateY(-50%);
+    margin-left: -20px;
   }
 
   .fab {
-   color: white!important;
-   padding: 5px;
+   color: #847996!important;
+
    font-size: 30px;
   }
+
