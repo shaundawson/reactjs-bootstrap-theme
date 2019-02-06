@@ -5,7 +5,10 @@ const Navbar = () => {
   return (
     <div className="Navbar">
       <nav className="navbar navbar-expand-lg navbar-light">
-      <img src="https://i.imgur.com/VqPkRl4.png" width="100" height="50" alt=""/>
+      <a href="/">
+      <img src="https://i.imgur.com/s0VyTaI.png" width="100" height="50" alt="" />
+      </a> 
+
         <a className="navbar-brand" href="/"></a>
         <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
           <span className="navbar-toggler-icon"></span>

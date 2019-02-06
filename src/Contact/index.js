@@ -8,7 +8,7 @@ const Contact = () => {
     <h4 class="h4-responsive  my-4">Send a message</h4>
     <div class="row">
         <div class="col-md-9 mb-md-0 mb-6">
-            <form id="contact-form" name="contact-form" action="mail.php" method="POST">
+        <form accept-charset="UTF-8" action="https://formkeep.com/f/a4b76bbbd4ee" method="POST">
 
                 <div class="row">
 
@@ -26,15 +26,6 @@ const Contact = () => {
                         </div>
                     </div>
 
-                </div>
-
-                <div class="row">
-                    <div class="col-md-12">
-                        <div class="md-form mb-0">
-                            <input type="text" id="subject" name="subject" class="form-control"/>
-                            <label for="subject" class="label">Subject</label>
-                        </div>
-                    </div>
                 </div>
 
                 <div class="row">
