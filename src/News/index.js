@@ -8,7 +8,7 @@ const News = () => {
         <div class="col-lg-8">
           <img class="img-fluid rounded" src="https://i.imgur.com/4gjLDEA.jpg" alt=""/>
         </div>
-        <div class="col-lg-4">
+        <div class="col-lg-3">
           <h2>BWW Review: HAMILTON Is Here and Meets the Hype at Dr. Phillips Center</h2>
           <p><i>Broadway World - Jan 25, 2019 </i></p>
           <p class="card-text">You don't need me to tell you whether HAMILTON is worth seeing. It's the most talked-about phenomenon in the history of Broadway. It won 11 Tonys, a Grammy, and the freakin' Pulitzer for creator Lin-Manuel Miranda..</p>

@@ -10,8 +10,9 @@ const Bio = () => {
         <span class="text-primary">Sostre</span>
           </h1>
           <br></br>
-          <p class="lead mb-5">Following the release of her debut album Nyla Live Live, the high intensity vocals of this singer songwriter paired with her live acoustic guitar "Betty Blue”, can be found on all popular streaming platforms including links…. Raw and unfiltered vocals and lyrical content are based on her life experiences as a black-hispanic youth growing up in Brooklyn NY. Representing her “afro- Latina” roots, Nyla uses every click of her tongue and belted harmony to tell the very human stories of Love, loss and lessons learned. Raised on the rebellious and uplifting sounds of artists like Nina Simone, Celia Cruz, Selena, Erykah Badu, Lauryn Hill, Etta James and Beyonce, Nyla’s sound while inspired is completely unique.</p>
-          <button type="button" class="btn btn-secondary">Contact</button>
+          <p class="lead mb-5">Raised on the rebellious and uplifting sounds of artists like Nina Simone, Celia Cruz, Selena, Erykah Badu, Lauryn Hill, Etta James and Beyonce, Nyla uses every click of her tongue and belted harmony to tell the very human stories of love, loss and lessons learned. Raw and unfiltered vocals and lyrics are based on her life experiences as an Afro-Latina youth growing up in Brooklyn, NY. The high intensity voice of this singer/songwriter (and her acoustic guitar "Betty Blue”) can be found gracing the stage as Peggy Schuyler in Lin-Manuel Miranda’s Hamilton or on her debut album <i> Nyla Live </i>.
+          </p>
+          <a href="/contact" class="btn btn-secondary" role="button" aria-disabled="true">Contact</a>
         </div>
       </section>
     </div>
