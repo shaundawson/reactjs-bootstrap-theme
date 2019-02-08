@@ -9,9 +9,10 @@ const News = () => {
           <img class="img-fluid" src="https://i.imgur.com/4gjLDEA.jpg" alt=""/>
         </div>
         <div class="col-lg-6">
-          <h2>BWW Review: HAMILTON Is Here and Meets the Hype at Dr. Phillips Center</h2>
-          <p class="card-text">You don't need me to tell you whether HAMILTON is worth seeing. It's the most talked-about phenomenon in the history of Broadway. It won 11 Tonys, a Grammy, and the freakin' Pulitzer for creator Lin-Manuel Miranda..</p>
-          <a class="btn btn-secondary btn-medium " href="https://www.broadwayworld.com/orlando/article/BWW-Review-HAMILTON-Is-Here-and-Meets-the-Hype-at-Dr-Phillips-Center-20190125" target="blank">Read More</a>
+          <h2>“Hamilton” Sparks a Feeding Frenzy – and Justifies It</h2>
+          <p class="card-text">Those seem to be the big questions now that the Philip Tour of Hamilton has rolled into Charlotte, and Belk Theater is the room where it happens. Unless you can find somebody who will let go of them, or you’re willing to take on the dates – and the prices – for the few stray tickets Blumenthal Performing Arts can still sell, the hottest Broadway Lights tickets in Queen City history are gone.
+          </p>
+          <a class="btn btn-secondary btn-medium " href="https://artonmysleeve.net/tag/nyla-sostre" target="blank">Read More</a>
         </div>
 
 
@@ -46,11 +47,13 @@ const News = () => {
         <div class="col-md-4 mb-3">
         <div class="card h-100">
           <div class="card-body">
-            <h2 class="card-title">Portland charms 'Hamilton' cast members on tour</h2>
-            <p class="card-text">Hamilton Cast Invades 1st Ave with “We, The Revolution” show raising money for BCEFA with Ashley Támar Davis</p>
+            <h2 class="card-title">Theatre Thursday :: our thoughts on Hamilton</h2>
+            <p class="card-text">
+            Nyla Sostre was delightfully hammy as Peggy Schuyler (this is important because Peggy is comedy gold) and absolutely stole the show every second she was onstage as Maria.
+            </p>
           </div>
           <div class="card-footer">
-            <a href="https://www.oregonlive.com/portland/2018/04/portland_charms_hamilton_cast.html" target="blank" class="btn btn-secondary">Read More</a>
+            <a href="https://partlydrawn.wordpress.com/tag/nyla-sostre/" target="blank" class="btn btn-secondary">Read More</a>
           </div>
         </div>
       </div>
