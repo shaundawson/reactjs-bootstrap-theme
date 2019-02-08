@@ -1,7 +1,13 @@
 .padding-list {
     padding:29px!important;
+    color: #f5a5b9!important;
 }
 
 .fa-caret-down{
     padding-left: 2px!important;
+    color: #f5a5b9!important;
+}
+
+.fa-bars  {
+    color: #f5a5b9!important;
 }

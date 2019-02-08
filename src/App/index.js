@@ -5,9 +5,7 @@ import { BrowserRouter as Router, Switch, Route, Link } from 'react-router-dom';
 import Navbar from "../Navbar";
 import Bio from "../Bio";
 import News from "../News";
-import Music from "../Music";
 import Photos from "../Photos";
-import Tour from "../Tour";
 import Contact from "../Contact";
 import Hero from "../Hero";
 import Footer from "../Footer";
@@ -22,9 +20,7 @@ class App extends Component {
               <Route exact path='/' component={Hero} />
               <Route path='/bio' component={Bio} />
               <Route path='/news' component={News} />
-              <Route path='/music' component={Music} />
               <Route path='/photos' component={Photos} />
-              <Route path='/tour' component={Tour} />
               <Route path='/contact' component={Contact} />
           </Switch>
         </div>

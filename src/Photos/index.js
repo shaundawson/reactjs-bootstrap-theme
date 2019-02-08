@@ -5,16 +5,23 @@ import Iframe from 'react-iframe';
 const Photos = () => {
   return (
     <div className="photos">
-    <Iframe url="https://snapwidget.com/embed/654603"
+    <div class="header-name">
+    <h1 class="mb-0">@
+  <span class="text-primary">nylanana</span>
+    </h1></div>
+    <section>
+    <Iframe url="https://snapwidget.com/embed/657237"
         width="100%"
-        height="600px"
+        height="900px"
         id="myId"
         className="myClassname"
         display="initial"
         position="relative"
-        overflow="hidden"
         allow="encrypted-media"
+        overflow="hidden"
+        scrolling="no"
         allowFullScreen/>
+        </section>
     </div>
   );
 };

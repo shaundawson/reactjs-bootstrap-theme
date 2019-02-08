@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import "./style.css";
-import Iframe from 'react-iframe';
+
 
 const Hero = () => {
   return (
@@ -14,25 +14,15 @@ const Hero = () => {
           <div id="facebook">
             <a href="https://www.facebook.com/Nylaninja/" target="_blank"><i className="fab fa-facebook" aria-hidden="true"></i></a>
           </div>
-          <div id="itunes">
-            <a href="https://itunes.apple.com/ca/album/nyla-live-live/1446125678" target="_blank"><i className="fab fa-itunes" aria-hidden="true"></i></a>
-          </div>
-          <div id="spotify">
-          <a href="https://open.spotify.com/album/0y01ZZ8BGGcas7gkzlOfRv" target="_blank"><i className="fab fa-spotify" aria-hidden="true"></i></a>
-          </div>
           <div id="twitter">
           <a href="https://www.twitter.com/nylaninjarose/" target="_blank"><i className="fab fa-twitter" aria-hidden="true"></i></a>
           </div>
+          <div id="bandsintown-logo">
+          <a href="https://www.bandsintown.com/a/13362115" target="_blank">
+<img border="0" alt="bandsintown" src="https://i.imgur.com/j4hnNti.png" width="30" height="30" className="bandsintown"/>
+</a>
+          </div>
         </div>
-        <Iframe url="https://www.bandsintown.com/artist/nylaninjarose/track_button?size=small&display_tracker_count=true&text_color=%23FFFFFF&background_color=%2300B4B3&hover_color=%2300908f"
-        width="100%"
-        height="30px"
-        id="myId"
-        className="bandsintown"
-        display="initial"
-        position="relative"
-        overflow="hidden"
-        allowFullScreen/>
       </div>
     </div>
   );

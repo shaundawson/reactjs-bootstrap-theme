@@ -1,5 +1,4 @@
 .photos {
-    position: relative!important;
-    overflow:hidden!important;
-    padding: 30px;
+    padding: 30px!important;
+    overflow: hidden!important;
 }

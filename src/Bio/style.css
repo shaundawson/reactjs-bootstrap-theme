@@ -17,12 +17,8 @@
     margin-right: 40%!important;
     font-weight: 400!important;
 
-
 }
 
-h4 {
-    color: #aac0aa!important;
-}
 
 .mb-0 {
     font-size: 30px!important;
@@ -30,10 +26,11 @@ h4 {
 }
 
 .text-primary {
-    color: #847996!important;
+    color: #f5a5b9!important;
 }
 
 p {
     line-height: 1.5;
     font-size: 16px;
 }
+

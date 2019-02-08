@@ -9,9 +9,11 @@ const Navbar = () => {
       <img src="https://i.imgur.com/s0VyTaI.png" width="100" height="50" alt="" />
       </a> 
 
-        <a className="navbar-brand" classname="logo-image" href="/"></a>
+        <a className="navbar-brand" classname="logo-image" href="/home"></a>
         <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-          <span className="navbar-toggler-icon"></span>
+        <span>
+        <i class="fas fa-bars"></i>
+    </span>
         </button>
         <div className="collapse navbar-collapse justify-content-end" id="navbarNav">
           <ul className="navbar-nav">
