@@ -6,7 +6,7 @@ const Footer = () => {
     <div className="footer-copyright text-center py-3">© 2019 Copyright
     <br></br> 
     Coded with
-    <i class="fa fa-heart" aria-hidden="true"></i> by
+    <i className="fa fa-heart" aria-hidden="true"></i> by
       <a href="https://www.iamsdawson.com/"> Shaun Dawson</a>
     </div>
   );

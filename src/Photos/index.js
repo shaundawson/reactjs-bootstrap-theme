@@ -11,13 +11,12 @@ const Photos = () => {
     <section>
     <Iframe url="https://snapwidget.com/embed/657237"
         width="100%"
-        height="450px"
+        height="600px"
         id="myId"
-        className="myClassname"
+        className="snapwidget-widget"
         position="relative"
         allow="encrypted-media"
         overflow="hidden"
-        scrolling="no"
         allowFullScreen/>
         </section>
     </div>

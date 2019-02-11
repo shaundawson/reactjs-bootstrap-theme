@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import "./style.css";
+import Iframe from 'react-iframe';
 
 const Contact = () => {
   return (
@@ -9,40 +10,23 @@ const Contact = () => {
     <div class="row">
    
         <div class="col-md-7 mb-md-0 mb-6">
-        <form action="https://formkeep.com/f/a4b76bbbd4ee" method="POST">
-                <div class="row">
-                    <div class="col-md-6">
-                        <div class="md-form mb-0">
-                            <input type="text" id="name" name="name" class="form-control"/>
-                            <label for="name" class="label">Your name</label>
-                        </div>
-                    </div>
-                    <div class="col-md-6">
-                        <div class="md-form mb-0">
-                            <input type="email" id="email" name="email" class="form-control"/>
-                            <label for="email" class="label">Your email</label>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-md-12">
-                        <div class="md-form">
-                            <textarea type="text" id="message" name="message" rows="2" class="form-control md-textarea"></textarea>
-                            <label for="message" class="label">Your message </label>
-                        </div>
-                    </div>
-                </div>
-            </form>
-            <div class="text-center text-md-left">
-                <a class="btn btn-secondary white-text btn-pad" >Send</a>
-            </div>
+        <Iframe url="https://iamsdawson.formstack.com/forms/nylasostre"
+        width="100%"
+        height="700px"
+        id="myId"
+        className="contactForm"
+        position="relative"
+        allow="encrypted-media"
+        overflow="hidden"
+        allowFullScreen/>
+
 
         </div>
     
         <div class="col-md-4 mb-md-0 mb-6 twitter">
         <a class="twitter-follow-button"
         href="https://twitter.com/nylaninjarose">
-       Follow Nyla</a>
+        </a>
         <a class="twitter-timeline" 
         data-width="300" 
         data-height="300"
