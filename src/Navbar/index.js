@@ -6,10 +6,10 @@ const Navbar = () => {
     <div className="Navbar">
       <nav className="navbar navbar-expand-lg navbar-light">
       <a href="/">
-      <img src="https://i.imgur.com/s0VyTaI.png" width="100" height="50" alt="" />
+      <img className="logo-image" src="https://i.imgur.com/s0VyTaI.png" width="50%" alt="" />
       </a> 
 
-        <a className="navbar-brand" className="logo-image" href="/home"></a>
+        <a className="navbar-brand" className="logo" href="/home"></a>
         <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <span>
         <i className="fas fa-bars"></i>
