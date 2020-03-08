@@ -1,0 +1,19 @@
+.padding-list {
+    padding:10px!important;
+    color: #f5a5b9!important;
+}
+
+.fa-caret-down{
+    padding-left: 2px!important;
+    color: #f5a5b9!important;
+}
+
+.fa-bars  {
+    color: #f5a5b9!important;
+}
+
+img.logo-image {
+    background-image: url("https://i.imgur.com/s0VyTaI.png");
+    height: 50px!important;
+    width:100px!important;
+  }
